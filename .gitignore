@@ -1,5 +1,5 @@
-foam-extend_for_openfoam.sparsebundle
-local_volume
+*.sparsebundle
+*_volume
 .idea
 .vs
 debug/*
